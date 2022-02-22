@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation commanding the due execution of two statutes against falsifying of wooll, and woollen yarne, for the better maintenance of clothing</title>
+            <title>Proclamations. 1615-05-31</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22116</idno>
+            <idno type="STC">STC 8521</idno>
+            <idno type="STC">ESTC S100806</idno>
+            <idno type="EEBO-CITATION">99836633</idno>
+            <idno type="PROQUEST">99836633</idno>
+            <idno type="VID">917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation commanding the due execution of two statutes against falsifying of wooll, and woollen yarne, for the better maintenance of clothing</title>
+                  <title>Proclamations. 1615-05-31</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Greenewich, the xxxi. day of May, in the thirteenth yeare of our raigne ..</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:917:1"/>
+            <!-- PDF PAGE 2 -->
+            <head>¶ By the King.</head>
+            <head type="sub">¶ A Proclamation commanding the due execution of two Statutes againſt falſifying of Wooll, and woollen Yarne, for the better maintenance of clothing.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Auing taken into Our princely care &amp; conſiderati<g ref="char:EOLhyphen"/>on, the maintenance and increaſe of the clothing of this our Kingdome, as the principall natiue com<g ref="char:EOLhyphen"/>modity therof, whereunto there are principally in<g ref="char:EOLhyphen"/>cident two co<g ref="char:cmbAbbrStroke">̄</g>ſiderations: The one of the manufac<g ref="char:EOLhyphen"/>tures depending thereupon: and the other of the materials of wooll &amp; woollen yarne, out of which the cloath is made and wrought: And being infor<g ref="char:EOLhyphen"/>med of the great and intollerable abuſes of the Broggers, Foreſtallers &amp; In<g ref="char:EOLhyphen"/>groſſers of wool, which partlie by neglect, &amp; partly by color of licence haue not onlie bene cauſe of the high prices &amp; dearth of Woolls, to the decay and diſ<g ref="char:EOLhyphen"/>couragement of the Clothier, but alſo by their ſundrie falcifications and cor<g ref="char:EOLhyphen"/>ruptions in the mixtures of the ſaid Wools, doe daylie both deceiue the Clo<g ref="char:EOLhyphen"/>their in that he buyes, and diſable him to make his Cloth of that true and per<g ref="char:EOLhyphen"/>fect making which he ought: Againſt which inconueniences there haue bene principally deuiſed and enacted two Statutes: The one in the eight yeare of the reigne of King Henrie the ſixt, the fift Chapter; and the other in the fift and ſixt years of King Edward the ſixt, intituled an Act limiting the times for buying and ſelling of Wools. Wee therefore out of Our Royall zeale to the common good of Our people, do by this Our Proclamation by the aduice of Our Priuie Council, publiſh and declare, and ſtraightly charge and command, aſwell our Treaſurer of England, Chancellor of our Exchequer, &amp; all other our Iudges, Barons of our Exchequer, our Attorney general, Our Iuſtices, Officers, and Miniſters, according to the ſeuerall dueties of thier places, re<g ref="char:EOLhyphen"/>ſpectiuely: as alſo all Our ſubjects in generall, to vſe their beſt care and dili<g ref="char:EOLhyphen"/>gence, that the ſaid Statutes before mentioned, be duelie kept &amp; obſerued, &amp; dili<g ref="char:EOLhyphen"/>gently and carefullie proſecuted and put in execution, vpon paine, not only of the penalties and forfeitures in the ſaid Statutes conteined, but alſo of our high indignation, and ſuch proſecution and cenſure as ſhall be fitt.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Mannor at Greenewich,</hi> 
+                  <date>
+                     <hi>the xxxi. day of May, in the thirteenth yeare of Our Raigne of England, France and Ireland, and of Scotland the 48.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie. ANNO DOM. 1615.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
